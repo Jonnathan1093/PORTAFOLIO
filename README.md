@@ -17,7 +17,7 @@ Cada proyecto refleja un enfoque práctico: desde la **integración y limpieza d
 |----------|------------|------------|
 | **[Proyecto Aurelion](https://github.com/Jonnathan1093/PORTAFOLIO/tree/master/PROYECTO%20AURELION%20(GUAYERD))** | Segmentación de clientes con clustering, predicción de ventas diarias y dashboards interactivos para soporte ejecutivo | Python, Pandas, SQL, Power BI |
 | **[Análisis COVID-19](https://github.com/Jonnathan1093/PORTAFOLIO/tree/master/ANALISIS%20(COVID-19))** | Limpieza y análisis exploratorio de datos de COVID-19; consultas SQL y visualizaciones en Python | Python, Pandas, T-SQL |
-
+| **[Análisis Juegos Olímpicos](https://github.com/Jonnathan1093/PORTAFOLIO/tree/master/OLYMPIC%20GAMES%20ANALYSIS)** | Análisis exploratorio de datos históricos de los Juegos Olímpicos usando consultas SQL directamente sobre un CSV con DuckDB; se analizaron participación de atletas, países, deportes y medallas | Python, Pandas, DuckDB, SQL |
 ---
 
 ## 🧰 Tecnologías
